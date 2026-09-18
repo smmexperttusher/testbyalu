@@ -1,0 +1,6 @@
+{
+  "name": "Bangladesh Multivendor E-Commerce",
+  "description": "Production-ready multivendor e-commerce platform tailored for Bangladesh with bKash, Nagad, Cash on Delivery, multi-vendor commission, and administrative verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
